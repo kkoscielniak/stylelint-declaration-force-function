@@ -1,0 +1,1 @@
+# stylelint-declaration-force-function
